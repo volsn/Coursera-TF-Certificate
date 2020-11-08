@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------
-<p align="center"><img width="40%" src="https://github.com/volsn/Coursera-TF-Certificate/blob/master/Logo.png" /></p>
+<p align="center"><img width="100%" src="https://github.com/volsn/Coursera-TF-Certificate/blob/master/Logo.png" /></p>
 
 -------------------------------------------------------------------------------------------
 
