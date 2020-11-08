@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------
-<p align="center"><img width="40%" src="https://github.com/volsn/Coursera-TF-Certificate/blob/master/Logo.jpg" /></p>
+<p align="center"><img width="40%" src="https://github.com/volsn/Coursera-TF-Certificate/blob/master/Logo.png" /></p>
 
 -------------------------------------------------------------------------------------------
 
@@ -9,15 +9,16 @@
 --------------------------------------------------------------------------------------------
 
 ## Courses
-1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/sahilkhose/TensorFlow-in-Practice-Specialization/tree/master/course1)
-2. [Convolutional Neural Network in Tensorflow](https://github.com/sahilkhose/TensorFlow-in-Practice-Specialization/tree/master/course2)
-3. [Natural Language Processing in TensorFlow](https://github.com/sahilkhose/TensorFlow-in-Practice-Specialization/tree/master/course3)
+1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/volsn/Coursera-TF-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
+2. [Convolutional Neural Network in Tensorflow](https://github.com/volsn/Coursera-TF-Certificate/tree/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
+
+3. [Natural Language Processing in TensorFlow]
 4. Sequence, Time Series and Prediction
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
-* [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/JNWH7K3GSB75)
+* [DeepLearning.AI TensorFlow Developer]It'll be here soon:)
 
 --------------------------------------------------------------------------------------------------------------
 
