@@ -12,13 +12,13 @@
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/volsn/Coursera-TF-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
 2. [Convolutional Neural Network in Tensorflow](https://github.com/volsn/Coursera-TF-Certificate/tree/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
 
-3. [Natural Language Processing in TensorFlow]
+3. Natural Language Processing in TensorFlow
 4. Sequence, Time Series and Prediction
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
-* [DeepLearning.AI TensorFlow Developer]It'll be here soon:)
+* DeepLearning.AI TensorFlow Developer It'll be here soon:)
 
 --------------------------------------------------------------------------------------------------------------
 
